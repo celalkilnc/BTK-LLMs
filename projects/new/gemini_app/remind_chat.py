@@ -1,5 +1,5 @@
 # Sohbeti hatırlasın
-from google import genai
+from google import genai #npm install google-genai
 from api_read import GEMINI_API_KEY
 import gradio as gr
 
